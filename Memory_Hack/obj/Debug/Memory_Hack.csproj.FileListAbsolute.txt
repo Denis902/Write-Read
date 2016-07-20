@@ -1,0 +1,9 @@
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\bin\Debug\Memory_Hack.exe.config
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\bin\Debug\Memory_Hack.exe
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\bin\Debug\Memory_Hack.pdb
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\obj\Debug\Memory_Hack.csprojResolveAssemblyReference.cache
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\obj\Debug\Memory_Hack.Form1.resources
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\obj\Debug\Memory_Hack.Properties.Resources.resources
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\obj\Debug\Memory_Hack.csproj.GenerateResource.Cache
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\obj\Debug\Memory_Hack.exe
+c:\users\dsapa\documents\visual studio 2015\Projects\Memory_Hack\Memory_Hack\obj\Debug\Memory_Hack.pdb
